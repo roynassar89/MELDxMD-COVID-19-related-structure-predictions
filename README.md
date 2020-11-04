@@ -1,1 +1,1 @@
-# MELDxMD-COVID-19-related-structure-predictions
+# MELDxMD-COVID19-related-structure-predictions
